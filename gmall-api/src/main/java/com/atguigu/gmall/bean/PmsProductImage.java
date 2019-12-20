@@ -20,9 +20,6 @@ public class PmsProductImage implements Serializable {
     @Column
     private String imgUrl;
 
-    public PmsProductImage() {
-    }
-
     public String getId() {
         return id;
     }

@@ -1,7 +1,5 @@
 package com.atguigu.gmall.bean;
 
-import com.atguigu.gmall.bean.PmsProductSaleAttrValue;
-
 import javax.persistence.Column;
 import javax.persistence.Id;
 import javax.persistence.Transient;
